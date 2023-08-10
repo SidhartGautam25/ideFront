@@ -1,0 +1,24 @@
+.st {
+  display: flex;
+}
+.header {
+  display: flex;
+  height: 50px;
+  background: linear-gradient(to right, #7d3a7d, 70%, #b649b0);
+  color: rgb(252, 252, 252);
+  justify-content: space-between;
+}
+.login {
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  margin-left: 20px;
+}
